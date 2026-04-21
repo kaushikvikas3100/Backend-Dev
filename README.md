@@ -13,4 +13,4 @@ Backend Deployment : frontend-deployment link:https://inventory-management-front
 
 Backend-deployment link:https://inventory-management-2-t0u8.onrender.com/
 
-Document Link : 
+leetcode link:https://leetcode.com/u/kaushikvikas310/
